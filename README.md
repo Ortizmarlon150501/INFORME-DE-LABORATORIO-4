@@ -1,6 +1,6 @@
 # INFORME-DE-LABORATORIO-4
 
-# Laboratorio-3-Analisis-de-Nodos
+# Laboratorio 4 Teorema de Superposicion
 
 # Objetivos 
 
