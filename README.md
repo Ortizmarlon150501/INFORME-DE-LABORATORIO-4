@@ -12,7 +12,9 @@ Establecer el teorema de superposición y sus aplicaciones en un circuito mixto 
 # Objetivos Especificos
 
 •	Verificar si los valores de las corrientes y voltajes con las ambas fuentes y por separadas 
+
 •	Conocer los fundamentos básicos del teorema de superposición.
+
 •	Comprobar las condiciones necesarias para que se cumpla el teorema de superposición.
 
 
