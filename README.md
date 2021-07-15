@@ -4,10 +4,16 @@
 
 # Objetivos 
 
-# Objetivo Generales
+# Objetivo Generale
+
+Establecer el teorema de superposición y sus aplicaciones en un circuito mixto donde se requiere calcular intensidades y voltajes por métodos ya conocidos como la ley de Ohm o el análisis de mallas con el fin de desarrollar la capacidad de cada estudiante en la resolución de circuitos complejos con dos o más fuentes, ya sea de corriente o voltaje.
 
 
 # Objetivos Especificos
+
+•	Verificar si los valores de las corrientes y voltajes con las ambas fuentes y por separadas 
+•	Conocer los fundamentos básicos del teorema de superposición.
+•	Comprobar las condiciones necesarias para que se cumpla el teorema de superposición.
 
 
 
