@@ -18,6 +18,11 @@
 
 
 
+![image](https://user-images.githubusercontent.com/84412132/125728002-e470f152-b4d4-425d-aafe-9deaf8705f59.png)
+ 
+ 
+ 
+
 #  Explicacion del procedimiento
 
 
