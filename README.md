@@ -44,6 +44,12 @@ Establecer el teorema de superposición y sus aplicaciones en un circuito mixto 
 
 
 # Conclusion
+Los circuitos lineales cumplen la propiedad de superposición. Esto es, en un circuito con varias fuentes (de tensión y/o corriente), la respuesta se puede hallar sumando la respuesta del circuito a cada una de las fuentes (independientes) por separado.
+
+Para calcular la contribución de cada fuente de forma independiente, todas las demás fuentes deben eliminarse y reemplazarse sin afectar el resultado final
+
+El voltaje o corriente total se calcula como la suma algebraica de las contribuciones de las fuentes. Si una contribución de una fuente tiene la misma dirección que la dirección de referencia, tiene un signo positivo en la suma; si tiene la dirección opuesta, entonces un signo negativo.
+
 
 
 
