@@ -68,6 +68,8 @@ Establecer el teorema de superposición y sus aplicaciones en un circuito mixto 
 
 ![image](https://user-images.githubusercontent.com/84585835/125900187-f00c4e01-a5cf-42e8-b54b-58a93b620982.png)
 
+![image](https://user-images.githubusercontent.com/84585835/125901601-76e6a72d-3677-4710-af29-8dcaab09d2a6.png)
+
 ![image](https://user-images.githubusercontent.com/84585835/125900832-74282e86-0caf-4704-babd-0f5f246de684.png)
 
 
