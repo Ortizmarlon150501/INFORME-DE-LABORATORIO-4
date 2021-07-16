@@ -74,6 +74,9 @@ Establecer el teorema de superposición y sus aplicaciones en un circuito mixto 
 
 # RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/84585835/125902705-0cc2625e-ff62-46e4-8359-bbaf103f58a3.png)
+
+![image](https://user-images.githubusercontent.com/84585835/125902744-47cb2f6a-fd40-4f57-aa1c-4908ce0593a5.png)
 
 
 # Video
