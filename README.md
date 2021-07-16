@@ -81,6 +81,7 @@ Establecer el teorema de superposición y sus aplicaciones en un circuito mixto 
 
 # Video
 
+https://youtu.be/7Hutp3E_fAU
 
 
 # Conclusion
